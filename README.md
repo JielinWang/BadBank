@@ -1,4 +1,4 @@
-## App Information
+## Fronted App - Using React Library
 
 ### Title: Bad Bank Application
 
