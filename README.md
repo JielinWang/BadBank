@@ -1,44 +1,38 @@
-# Getting Started with Create React App
+## App Information
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Title: Bad Bank Application
 
-## Available Scripts
+### Description:
 
-In the project directory, you can run:
+- Bad Bank is the Capstone Project for Module 2 in the MIT - Fullstack Development with MERN. It is called Bad Bank due to the users data exposured in the UI (intentionally).
+
+- It consists of a simple React application where the students apply concepts such as hooks, context, routing, and form validations. As well, for the first attempt from the students to deploy a React application using AWS S3 Buckets.
 
 ### How to Run
 
-Simply download the zip folder with the source code file, or fork it into your github and clone it into your machine, and run:
+Fork it into your github and clone it into your machine, and run it by using your favorite IDE.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Functionalities available:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Create Account
+- Login to Account
+- Transactions List
+- Deposit
+- Withdraw
+- All data list
 
-### `npm test`
+<b>Link to AWS Deployment:</b> **[Bad Bank] (https://jielin-wangbankingapplication.s3.us-east-2.amazonaws.com/index.html)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Author
 
-### `npm run build`
+Jielin Wang
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Student at MIT - Fullstack Development with MERN
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+MIT License
 
-Link to AWS Deployment: **[Bad Bank] (https://jielin-wangbankingapplication.s3.us-east-2.amazonaws.com/index.html)
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 
